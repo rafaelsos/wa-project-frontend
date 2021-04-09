@@ -1,4 +1,4 @@
-Projeto Base React
+wa-project-frontend
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.
