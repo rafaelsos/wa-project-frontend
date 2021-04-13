@@ -1,0 +1,10 @@
+.content-modal {
+  background: #ffffff;
+  max-width: 350px;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 36px;
+  border-radius: 6px;
+}
